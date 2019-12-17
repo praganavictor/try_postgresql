@@ -1,0 +1,5 @@
+::ffff:127.0.0.1 - - [17/Dec/2019:17:22:01 +0000] "POST /question HTTP/1.1" - - "-" "insomnia/7.0.5"
+::ffff:127.0.0.1 - - [17/Dec/2019:17:38:19 +0000] "POST /question HTTP/1.1" 200 44 "-" "insomnia/7.0.5"
+::ffff:127.0.0.1 - - [17/Dec/2019:17:38:34 +0000] "GET /questions HTTP/1.1" 200 44 "-" "insomnia/7.0.5"
+::ffff:127.0.0.1 - - [17/Dec/2019:17:38:43 +0000] "GET /question/1 HTTP/1.1" 200 42 "-" "insomnia/7.0.5"
+::ffff:127.0.0.1 - - [17/Dec/2019:17:38:48 +0000] "GET /questions HTTP/1.1" 200 44 "-" "insomnia/7.0.5"
